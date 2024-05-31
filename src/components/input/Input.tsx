@@ -4,11 +4,9 @@ import {
   StyleProp,
   Text,
   View,
-  ViewProps,
   ViewStyle,
 } from 'react-native';
-// import Icons from 'react-native-vector-icons/Ionicons';
-import {TextInput, TouchableOpacity} from 'react-native-gesture-handler';
+import {TextInput} from 'react-native-gesture-handler';
 import styles from './styles';
 
 interface Props {
